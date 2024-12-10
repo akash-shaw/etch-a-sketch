@@ -1,2 +1,2 @@
-# etch-a-sketch
+# Etch a Sketch
 Simple Browser Sketchpad
